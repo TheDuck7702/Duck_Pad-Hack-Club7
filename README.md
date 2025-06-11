@@ -26,13 +26,14 @@ Hey, this is my first formal sudmition of an acc project for a hackathon, so i b
 Photos:
 ![Screenshot 2025-06-04 204325](https://github.com/user-attachments/assets/5e35dd14-8a71-498f-ab81-c59b0b3ffa6d)
 
-![Screenshot 2025-06-04 204309](https://github.com/user-attachments/assets/54329918-3b57-4dd3-a0ab-41e53037662a)
-
 ![image](https://github.com/user-attachments/assets/234005f6-da62-4e6d-a43b-9e7354e8e591)
 
 ![image](https://github.com/user-attachments/assets/b38ba6e8-73d3-474b-8440-296718ee3d61)
 
 ![Screenshot 2025-06-06 000525](https://github.com/user-attachments/assets/63a43fa2-f36b-4c06-8b71-c2582e2dfbac)
+
+![image](https://github.com/user-attachments/assets/81b2f9bd-8128-42c4-a54f-346bf5f45d70)
+
 
 
 
